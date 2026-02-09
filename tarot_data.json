@@ -176,12 +176,124 @@
     "description": "The World represents the successful conclusion of a long journey and total fulfillment."
   },
   {
+    "id": "wands_01",
+    "name": "Ace of Wands",
+    "image": "wands_01.png",
+    "meaning_upright": "Inspiration, new opportunities, growth, potential",
+    "meaning_reversed": "An emerging idea, lack of direction, distractions",
+    "description": "A hand holding a sprouting wand, representing the spark of new creative energy."
+  },
+  {
+    "id": "wands_02",
+    "name": "Two of Wands",
+    "image": "wands_02.png",
+    "meaning_upright": "Future planning, progress, decisions, discovery",
+    "meaning_reversed": "Fear of unknown, lack of planning",
+    "description": "A figure holds a globe, contemplating the vastness of the world and their next move."
+  },
+  {
+    "id": "wands_03",
+    "name": "Three of Wands",
+    "image": "wands_03.png",
+    "meaning_upright": "Progress, expansion, foresight, overseas opportunities",
+    "meaning_reversed": "Playing it safe, disappointment",
+    "description": "A figure looks out to sea as ships return, symbolizing waiting for the results of one's efforts."
+  },
+  {
+    "id": "wands_04",
+    "name": "Four of Wands",
+    "image": "wands_04.png",
+    "meaning_upright": "Celebration, joy, harmony, relaxation, homecoming",
+    "meaning_reversed": "Personal celebration, inner harmony, conflict with family",
+    "description": "A couple dances beneath a wreath, representing stability, happiness, and celebration."
+  },
+  {
+    "id": "wands_05",
+    "name": "Five of Wands",
+    "image": "wands_05.png",
+    "meaning_upright": "Conflict, disagreements, competition, tension",
+    "meaning_reversed": "Avoiding conflict, respecting differences",
+    "description": "Five figures wield wands in a chaotic manner, symbolizing strife and competition."
+  },
+  {
+    "id": "wands_06",
+    "name": "Six of Wands",
+    "image": "wands_06.png",
+    "meaning_upright": "Success, public recognition, progress, self-confidence",
+    "meaning_reversed": "Egotism, disrepute, lack of confidence",
+    "description": "A victor rides a horse through a cheering crowd, representing triumph and recognition."
+  },
+  {
+    "id": "wands_07",
+    "name": "Seven of Wands",
+    "image": "wands_07.png",
+    "meaning_upright": "Challenge, competition, protection, perseverance",
+    "meaning_reversed": "Giving up, overwhelmed, losing confidence",
+    "description": "A figure stands on a hill defending themselves against six attacking wands."
+  },
+  {
+    "id": "wands_08",
+    "name": "Eight of Wands",
+    "image": "wands_08.png",
+    "meaning_upright": "Movement, fast paced change, action, alignment",
+    "meaning_reversed": "Delays, frustration, resisting change",
+    "description": "Eight wands fly through the air, representing speed, motion, and swift communication."
+  },
+  {
+    "id": "wands_09",
+    "name": "Nine of Wands",
+    "image": "wands_09.png",
+    "meaning_upright": "Resilience, courage, persistence, test of faith",
+    "meaning_reversed": "Inner resources, struggle, overwhelm, paranoia",
+    "description": "A wounded figure leans on a wand, representing exhaustion but the will to keep fighting."
+  },
+  {
+    "id": "wands_10",
+    "name": "Ten of Wands",
+    "image": "wands_10.png",
+    "meaning_upright": "Burden, extra responsibility, hard work, completion",
+    "meaning_reversed": "Doing it all, carrying the burden, delegation",
+    "description": "A figure carries a heavy bundle of wands, symbolizing the weight of responsibilities."
+  },
+  {
+    "id": "wands_11",
+    "name": "Page of Wands",
+    "image": "wands_11.png",
+    "meaning_upright": "Inspiration, ideas, discovery, limitless potential",
+    "meaning_reversed": "Newly-formed ideas, redirecting energy",
+    "description": "A young messenger looks at a wand, full of enthusiasm and the spark of a new idea."
+  },
+  {
+    "id": "wands_12",
+    "name": "Knight of Wands",
+    "image": "wands_12.png",
+    "meaning_upright": "Energy, passion, inspired action, adventure, impulsiveness",
+    "meaning_reversed": "Passion project, haste, scattered energy",
+    "description": "A knight charges forward on a horse, ready to take action on their passions."
+  },
+  {
+    "id": "wands_13",
+    "name": "Queen of Wands",
+    "image": "wands_13.png",
+    "meaning_upright": "Courage, confidence, independence, social butterfly",
+    "meaning_reversed": "Self-respect, self-confidence, introversion",
+    "description": "The Queen sits on her throne with a sunflower, radiating warmth, vibrancy, and confidence."
+  },
+  {
+    "id": "wands_14",
+    "name": "King of Wands",
+    "image": "wands_14.png",
+    "meaning_upright": "Natural-born leader, vision, entrepreneur, honour",
+    "meaning_reversed": "Impulsiveness, haste, ruthless, high expectations",
+    "description": "The King sits holding a blossoming wand, representing big picture vision and leadership."
+  },
+  {
     "id": "cups_01",
     "name": "Ace of Cups",
     "image": "cups_01.png",
     "meaning_upright": "Love, new relationships, compassion, creativity",
     "meaning_reversed": "Self-love, intuition, repressed emotions",
-    "description": "The Ace of Cups offers a cup flowing with love, emotion, and the potential for new relationships."
+    "description": "A cup overflows with five streams of water, symbolizing an abundance of emotion and spirit."
   },
   {
     "id": "cups_02",
@@ -189,30 +301,326 @@
     "image": "cups_02.png",
     "meaning_upright": "Unified love, partnership, mutual attraction",
     "meaning_reversed": "Self-love, break-ups, disharmony",
-    "description": "The Two of Cups represents a union of souls, whether romantic, platonic, or business."
+    "description": "Two figures exchange cups, representing connection, partnership, and unity."
+  },
+  {
+    "id": "cups_03",
+    "name": "Three of Cups",
+    "image": "cups_03.png",
+    "meaning_upright": "Celebration, friendship, creativity, collaborations",
+    "meaning_reversed": "Independence, alone time, hardcore partying",
+    "description": "Three women dance together with cups raised, symbolizing friendship and community."
+  },
+  {
+    "id": "cups_04",
+    "name": "Four of Cups",
+    "image": "cups_04.png",
+    "meaning_upright": "Meditation, contemplation, apathy, re-evaluation",
+    "meaning_reversed": "Retreat, withdrawal, checking in for alignment",
+    "description": "A figure sits under a tree ignoring a offered cup, representing boredom or contemplation."
+  },
+  {
+    "id": "cups_05",
+    "name": "Five of Cups",
+    "image": "cups_05.png",
+    "meaning_upright": "Regret, failure, disappointment, pessimism",
+    "meaning_reversed": "Personal setbacks, self-forgiveness, moving on",
+    "description": "A cloaked figure mourns three spilled cups while two stand upright behind them."
+  },
+  {
+    "id": "cups_06",
+    "name": "Six of Cups",
+    "image": "cups_06.png",
+    "meaning_upright": "Revisiting the past, childhood memories, innocence, joy",
+    "meaning_reversed": "Living in the past, forgiveness, lacking playfulness",
+    "description": "Children play in a garden with cups filled with flowers, representing nostalgia."
+  },
+  {
+    "id": "cups_07",
+    "name": "Seven of Cups",
+    "image": "cups_07.png",
+    "meaning_upright": "Opportunities, choices, wishful thinking, illusion",
+    "meaning_reversed": "Alignment, personal values, overwhelmed by choices",
+    "description": "A figure sees seven cups in the clouds containing various strange gifts and curses."
+  },
+  {
+    "id": "cups_08",
+    "name": "Eight of Cups",
+    "image": "cups_08.png",
+    "meaning_upright": "Disappointment, abandonment, withdrawal, escapism",
+    "meaning_reversed": "Trying one more time, indecision, aimless drifting",
+    "description": "A figure walks away from a stack of cups into the mountains, seeking something more."
+  },
+  {
+    "id": "cups_09",
+    "name": "Nine of Cups",
+    "image": "cups_09.png",
+    "meaning_upright": "Contentment, satisfaction, gratitude, wish come true",
+    "meaning_reversed": "Inner happiness, materialism, dissatisfaction",
+    "description": "A figure sits contentedly in front of nine cups, often called the 'wish card'."
+  },
+  {
+    "id": "cups_10",
+    "name": "Ten of Cups",
+    "image": "cups_10.png",
+    "meaning_upright": "Divine love, blissful relationships, harmony, alignment",
+    "meaning_reversed": "Disconnection, misaligned values, struggling relationships",
+    "description": "A happy family stands beneath a rainbow of cups, representing emotional fulfillment."
+  },
+  {
+    "id": "cups_11",
+    "name": "Page of Cups",
+    "image": "cups_11.png",
+    "meaning_upright": "Creative opportunities, intuitive messages, curiosity",
+    "meaning_reversed": "New ideas, doubting intuition, creative blocks",
+    "description": "A youth holds a cup with a fish popping out, symbolizing a surprise or creative message."
+  },
+  {
+    "id": "cups_12",
+    "name": "Knight of Cups",
+    "image": "cups_12.png",
+    "meaning_upright": "Creativity, romance, charm, imagination, beauty",
+    "meaning_reversed": "Overactive imagination, unrealistic, jealous, moody",
+    "description": "A knight rides slowly, offering a cup, representing a romantic or artistic proposal."
+  },
+  {
+    "id": "cups_13",
+    "name": "Queen of Cups",
+    "image": "cups_13.png",
+    "meaning_upright": "Compassionate, caring, emotionally stable, intuitive",
+    "meaning_reversed": "Inner feelings, self-care, self-love, co-dependency",
+    "description": "The Queen gazes into a cup, representing deep emotional introspection and care."
+  },
+  {
+    "id": "cups_14",
+    "name": "King of Cups",
+    "image": "cups_14.png",
+    "meaning_upright": "Emotionally balanced, compassionate, diplomatic",
+    "meaning_reversed": "Self-compassion, inner feelings, moodiness",
+    "description": "The King sits calmly on a throne floating on water, mastering the realm of emotions."
   },
   {
     "id": "swords_01",
     "name": "Ace of Swords",
     "image": "swords_01.png",
-    "meaning_upright": "Raw power, victory, break-throughs, mental clarity",
-    "meaning_reversed": "Confusion, chaos, lack of clarity",
-    "description": "The Ace of Swords represents a breakthrough moment of mental clarity and truth."
+    "meaning_upright": "Breakthroughs, new ideas, mental clarity, success",
+    "meaning_reversed": "Inner clarity, re-thinking an idea, clouded judgement",
+    "description": "A hand holds a sword upright, crowned with a wreath, representing clarity and truth."
   },
   {
-    "id": "wands_01",
-    "name": "Ace of Wands",
-    "image": "wands_01.png",
-    "meaning_upright": "Inspiration, new opportunities, growth, potential",
-    "meaning_reversed": "An emerging idea, lack of direction, distractions",
-    "description": "The Ace of Wands is the spark of creativity and the urge to take action on a new idea."
+    "id": "swords_02",
+    "name": "Two of Swords",
+    "image": "swords_02.png",
+    "meaning_upright": "Difficult decisions, weighing up options, an impasse",
+    "meaning_reversed": "Indecision, confusion, information overload",
+    "description": "A blindfolded figure holds two crossed swords, representing a stalemate or hard choice."
+  },
+  {
+    "id": "swords_03",
+    "name": "Three of Swords",
+    "image": "swords_03.png",
+    "meaning_upright": "Heartbreak, emotional pain, sorrow, grief, hurt",
+    "meaning_reversed": "Negative self-talk, releasing pain, optimism",
+    "description": "A heart is pierced by three swords against a stormy sky, representing sorrow."
+  },
+  {
+    "id": "swords_04",
+    "name": "Four of Swords",
+    "image": "swords_04.png",
+    "meaning_upright": "Rest, relaxation, meditation, contemplation, recuperation",
+    "meaning_reversed": "Exhaustion, burn-out, deep contemplation",
+    "description": "A knight lies in a tomb in prayer, representing a need for rest and retreat."
+  },
+  {
+    "id": "swords_05",
+    "name": "Five of Swords",
+    "image": "swords_05.png",
+    "meaning_upright": "Conflict, disagreements, competition, defeat, winning at all costs",
+    "meaning_reversed": "Reconciliation, making amends, past resentment",
+    "description": "A figure collects swords from defeated opponents, representing a hollow victory."
+  },
+  {
+    "id": "swords_06",
+    "name": "Six of Swords",
+    "image": "swords_06.png",
+    "meaning_upright": "Transition, change, rite of passage, releasing baggage",
+    "meaning_reversed": "Personal transition, resistance to change",
+    "description": "A figure travels by boat to calmer waters, leaving difficulties behind."
+  },
+  {
+    "id": "swords_07",
+    "name": "Seven of Swords",
+    "image": "swords_07.png",
+    "meaning_upright": "Betrayal, deception, getting away with something, stealth",
+    "meaning_reversed": "Mental challenges, breaking free, keeping secrets",
+    "description": "A figure sneaks away with five swords, looking back at the two left behind."
+  },
+  {
+    "id": "swords_08",
+    "name": "Eight of Swords",
+    "image": "swords_08.png",
+    "meaning_upright": "Negative thoughts, self-imposed restriction, imprisonment",
+    "meaning_reversed": "Self-limiting beliefs, inner critic, releasing negative thoughts",
+    "description": "A bound and blindfolded figure stands surrounded by swords, trapping themselves."
+  },
+  {
+    "id": "swords_09",
+    "name": "Nine of Swords",
+    "image": "swords_09.png",
+    "meaning_upright": "Anxiety, worry, fear, depression, nightmares",
+    "meaning_reversed": "Inner turmoil, deep-seated fears, secrets, releasing worry",
+    "description": "A figure sits up in bed with head in hands, overwhelmed by worry and grief."
+  },
+  {
+    "id": "swords_10",
+    "name": "Ten of Swords",
+    "image": "swords_10.png",
+    "meaning_upright": "Painful endings, deep wounds, betrayal, loss, crisis",
+    "meaning_reversed": "Recovery, regeneration, resisting an inevitable end",
+    "description": "A figure lies defeated with ten swords in their back, symbolizing a rock-bottom ending."
+  },
+  {
+    "id": "swords_11",
+    "name": "Page of Swords",
+    "image": "swords_11.png",
+    "meaning_upright": "New ideas, curiosity, thirst for knowledge, new ways of communicating",
+    "meaning_reversed": "Self-expression, all talk and no action, haphazard action",
+    "description": "A youth holds a sword, ready to defend their ideas and seek the truth."
+  },
+  {
+    "id": "swords_12",
+    "name": "Knight of Swords",
+    "image": "swords_12.png",
+    "meaning_upright": "Ambitious, action-oriented, driven to succeed, fast-thinking",
+    "meaning_reversed": "Restless, unfocused, impulsive, burn-out",
+    "description": "A knight charges furiously into the wind, representing haste and intellectual action."
+  },
+  {
+    "id": "swords_13",
+    "name": "Queen of Swords",
+    "image": "swords_13.png",
+    "meaning_upright": "Independent, unbiased judgement, clear boundaries, direct communication",
+    "meaning_reversed": "Overly-emotional, easily influenced, bitchy, cold",
+    "description": "The Queen sits with a sword raised, representing intellect, clarity, and independence."
+  },
+  {
+    "id": "swords_14",
+    "name": "King of Swords",
+    "image": "swords_14.png",
+    "meaning_upright": "Mental clarity, intellectual power, authority, truth",
+    "meaning_reversed": "Quiet power, inner truth, misuse of power, manipulation",
+    "description": "The King sits sternly with a sword, representing structure, truth, and ethical leadership."
   },
   {
     "id": "pentacles_01",
     "name": "Ace of Pentacles",
     "image": "pentacles_01.png",
-    "meaning_upright": "A new financial or career opportunity, manifestation",
+    "meaning_upright": "A new financial or career opportunity, manifestation, abundance",
     "meaning_reversed": "Lost opportunity, lack of planning and foresight",
-    "description": "The Ace of Pentacles represents a seed of prosperity planted in the material world."
+    "description": "A hand offers a large pentacle in a garden, representing a gift of material stability."
+  },
+  {
+    "id": "pentacles_02",
+    "name": "Two of Pentacles",
+    "image": "pentacles_02.png",
+    "meaning_upright": "Multiple priorities, time management, prioritization, adaptability",
+    "meaning_reversed": "Over-committed, disorganization, reprioritization",
+    "description": "A figure juggles two pentacles in an infinity loop, managing ups and downs."
+  },
+  {
+    "id": "pentacles_03",
+    "name": "Three of Pentacles",
+    "image": "pentacles_03.png",
+    "meaning_upright": "Teamwork, collaboration, learning, implementation",
+    "meaning_reversed": "Disharmony, misalignment, working alone",
+    "description": "A craftsman works on a cathedral with two others, representing collaboration."
+  },
+  {
+    "id": "pentacles_04",
+    "name": "Four of Pentacles",
+    "image": "pentacles_04.png",
+    "meaning_upright": "Saving money, security, conservatism, scarcity, control",
+    "meaning_reversed": "Over-spending, greed, self-protection",
+    "description": "A figure clutches four pentacles tightly, afraid to let go of their possessions."
+  },
+  {
+    "id": "pentacles_05",
+    "name": "Five of Pentacles",
+    "image": "pentacles_05.png",
+    "meaning_upright": "Financial loss, poverty, lack mindset, isolation, worry",
+    "meaning_reversed": "Recovery from financial loss, spiritual poverty",
+    "description": "Two destitute figures walk in the snow outside a warm church window."
+  },
+  {
+    "id": "pentacles_06",
+    "name": "Six of Pentacles",
+    "image": "pentacles_06.png",
+    "meaning_upright": "Giving, receiving, sharing wealth, generosity, charity",
+    "meaning_reversed": "Self-care, unpaid debts, one-sided charity",
+    "description": "A merchant weighs coins to give to beggars, representing the balance of giving."
+  },
+  {
+    "id": "pentacles_07",
+    "name": "Seven of Pentacles",
+    "image": "pentacles_07.png",
+    "meaning_upright": "Long-term view, sustainable results, perseverance, investment",
+    "meaning_reversed": "Lack of long-term vision, limited success or reward",
+    "description": "A farmer leans on his hoe, looking at his crop, waiting for the harvest."
+  },
+  {
+    "id": "pentacles_08",
+    "name": "Eight of Pentacles",
+    "image": "pentacles_08.png",
+    "meaning_upright": "Apprenticeship, repetitive tasks, mastery, skill development",
+    "meaning_reversed": "Self-development, perfectionism, misdirected activity",
+    "description": "A craftsman diligently hammers away at a pentacle, focused on his work."
+  },
+  {
+    "id": "pentacles_09",
+    "name": "Nine of Pentacles",
+    "image": "pentacles_09.png",
+    "meaning_upright": "Abundance, luxury, self-sufficiency, financial independence",
+    "meaning_reversed": "Self-worth, over-investment in work, hustling",
+    "description": "A woman stands in a vineyard with a falcon, enjoying the fruits of her labor."
+  },
+  {
+    "id": "pentacles_10",
+    "name": "Ten of Pentacles",
+    "image": "pentacles_10.png",
+    "meaning_upright": "Wealth, financial security, family, long-term success, contribution",
+    "meaning_reversed": "The dark side of wealth, financial failure or loss",
+    "description": "An elder sits with family and dogs, representing legacy and generational wealth."
+  },
+  {
+    "id": "pentacles_11",
+    "name": "Page of Pentacles",
+    "image": "pentacles_11.png",
+    "meaning_upright": "Manifestation, financial opportunity, skill development",
+    "meaning_reversed": "Lack of progress, procrastination, learn from failure",
+    "description": "A youth examines a pentacle closely, representing study and new financial beginnings."
+  },
+  {
+    "id": "pentacles_12",
+    "name": "Knight of Pentacles",
+    "image": "pentacles_12.png",
+    "meaning_upright": "Hard work, productivity, routine, conservatism",
+    "meaning_reversed": "Self-discipline, boredom, feeling 'stuck', perfectionism",
+    "description": "A knight sits on a heavy horse, representing slow, steady, and reliable progress."
+  },
+  {
+    "id": "pentacles_13",
+    "name": "Queen of Pentacles",
+    "image": "pentacles_13.png",
+    "meaning_upright": "Nurturing, practical, providing financially, a working parent",
+    "meaning_reversed": "Financial independence, self-care, work-home conflict",
+    "description": "The Queen sits amidst nature, caring for a pentacle, representing practical nurturing."
+  },
+  {
+    "id": "pentacles_14",
+    "name": "King of Pentacles",
+    "image": "pentacles_14.png",
+    "meaning_upright": "Wealth, business, leadership, security, discipline, abundance",
+    "meaning_reversed": "Financially inept, obsessed with wealth and status, stubborn",
+    "description": "The King sits on a throne adorned with bulls, representing material success and power."
   }
 ]
