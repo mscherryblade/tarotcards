@@ -1,0 +1,218 @@
+[
+  {
+    "id": "major_00",
+    "name": "The Fool",
+    "image": "major_00_the_fool.png",
+    "meaning_upright": "New beginnings, optimism, trust in life",
+    "meaning_reversed": "Recklessness, being taken advantage of, inconsideration",
+    "description": "The Fool represents the start of a journey, stepping off a cliff into the unknown with pure faith."
+  },
+  {
+    "id": "major_01",
+    "name": "The Magician",
+    "image": "major_01_the_magician.png",
+    "meaning_upright": "Action, the power to manifest, resourcefulness",
+    "meaning_reversed": "Manipulation, poor planning, untapped talents",
+    "description": "The Magician connects the spiritual and physical worlds, using tools to manifest their will."
+  },
+  {
+    "id": "major_02",
+    "name": "The High Priestess",
+    "image": "major_02_high_priestess.png",
+    "meaning_upright": "Intuition, sacred knowledge, divine feminine",
+    "meaning_reversed": "Secrets, disconnected from intuition, withdrawal",
+    "description": "The High Priestess sits at the gate of the subconscious, urging you to listen to your inner voice."
+  },
+  {
+    "id": "major_03",
+    "name": "The Empress",
+    "image": "major_03_the_empress.png",
+    "meaning_upright": "Femininity, beauty, nature, nurturing, abundance",
+    "meaning_reversed": "Creative block, dependence on others",
+    "description": "The Empress is the mother figure of the tarot, representing fertility and the abundance of nature."
+  },
+  {
+    "id": "major_04",
+    "name": "The Emperor",
+    "image": "major_04_the_emperor.png",
+    "meaning_upright": "Authority, establishment, structure, father figure",
+    "meaning_reversed": "Domination, excessive control, lack of discipline",
+    "description": "The Emperor brings order to chaos, representing structure, rules, and masculine energy."
+  },
+  {
+    "id": "major_05",
+    "name": "The Hierophant",
+    "image": "major_05_the_hierophant.png",
+    "meaning_upright": "Spiritual wisdom, religious beliefs, conformity",
+    "meaning_reversed": "Personal beliefs, freedom, challenging the status quo",
+    "description": "The Hierophant represents tradition and established institutions, acting as a bridge to the divine."
+  },
+  {
+    "id": "major_06",
+    "name": "The Lovers",
+    "image": "major_06_the_lovers.png",
+    "meaning_upright": "Love, harmony, relationships, choices",
+    "meaning_reversed": "Self-love, disharmony, imbalance, misalignment of values",
+    "description": "The Lovers represent distinct choices and the union of dualities, usually in relationships."
+  },
+  {
+    "id": "major_07",
+    "name": "The Chariot",
+    "image": "major_07_the_chariot.png",
+    "meaning_upright": "Control, willpower, success, action",
+    "meaning_reversed": "Self-discipline issues, aggression, lack of direction",
+    "description": "The Chariot represents overcoming conflict and moving forward through sheer willpower."
+  },
+  {
+    "id": "major_08",
+    "name": "Strength",
+    "image": "major_08_strength.png",
+    "meaning_upright": "Courage, bravery, influence, compassion",
+    "meaning_reversed": "Self-doubt, weakness, insecurity",
+    "description": "Strength reminds you that true power comes from inner calm and patience, not brute force."
+  },
+  {
+    "id": "major_09",
+    "name": "The Hermit",
+    "image": "major_09_the_hermit.png",
+    "meaning_upright": "Soul-searching, introspection, inner guidance",
+    "meaning_reversed": "Isolation, loneliness, withdrawal",
+    "description": "The Hermit walks alone to find the light of truth, representing a time for self-reflection."
+  },
+  {
+    "id": "major_10",
+    "name": "Wheel of Fortune",
+    "image": "major_10_wheel_of_fortune.png",
+    "meaning_upright": "Good luck, karma, life cycles, destiny",
+    "meaning_reversed": "Bad luck, resistance to change, breaking cycles",
+    "description": "The Wheel turns for everyone; it represents the inevitable cycles of fate and change."
+  },
+  {
+    "id": "major_11",
+    "name": "Justice",
+    "image": "major_11_justice.png",
+    "meaning_upright": "Justice, fairness, truth, cause and effect",
+    "meaning_reversed": "Unfairness, lack of accountability, dishonesty",
+    "description": "Justice holds the scales of truth, reminding us that every action has a consequence."
+  },
+  {
+    "id": "major_12",
+    "name": "The Hanged Man",
+    "image": "major_12_hanged_man.png",
+    "meaning_upright": "Pause, surrender, letting go, new perspectives",
+    "meaning_reversed": "Delays, resistance, stalling, indecision",
+    "description": "The Hanged Man suggests a suspension of action to gain a new perspective through sacrifice."
+  },
+  {
+    "id": "major_13",
+    "name": "Death",
+    "image": "major_13_death.png",
+    "meaning_upright": "Endings, change, transformation, transition",
+    "meaning_reversed": "Resistance to change, personal transformation",
+    "description": "Death is rarely physical; it represents the end of a cycle and the beginning of a new one."
+  },
+  {
+    "id": "major_14",
+    "name": "Temperance",
+    "image": "major_14_temperance.png",
+    "meaning_upright": "Balance, moderation, patience, purpose",
+    "meaning_reversed": "Imbalance, excess, self-healing",
+    "description": "Temperance is the alchemist, blending opposites to find balance and harmony in life."
+  },
+  {
+    "id": "major_15",
+    "name": "The Devil",
+    "image": "major_15_the_devil.png",
+    "meaning_upright": "Shadow self, attachment, addiction, restriction",
+    "meaning_reversed": "Releasing limiting beliefs, exploring dark thoughts",
+    "description": "The Devil represents the chains we forge for ourselves through addiction or materialism."
+  },
+  {
+    "id": "major_16",
+    "name": "The Tower",
+    "image": "major_16_the_tower.png",
+    "meaning_upright": "Sudden change, upheaval, chaos, revelation",
+    "meaning_reversed": "Personal transformation, fear of change",
+    "description": "The Tower brings destruction to false structures, clearing the way for truth."
+  },
+  {
+    "id": "major_17",
+    "name": "The Star",
+    "image": "major_17_the_star.png",
+    "meaning_upright": "Hope, faith, purpose, renewal, spirituality",
+    "meaning_reversed": "Lack of faith, despair, self-trust",
+    "description": "The Star follows the Tower, bringing hope, renewal, and spiritual healing."
+  },
+  {
+    "id": "major_18",
+    "name": "The Moon",
+    "image": "major_18_the_moon.png",
+    "meaning_upright": "Illusion, fear, anxiety, subconscious, intuition",
+    "meaning_reversed": "Release of fear, repressed emotion, confusion",
+    "description": "The Moon represents the realm of dreams and illusions where things are not always as they seem."
+  },
+  {
+    "id": "major_19",
+    "name": "The Sun",
+    "image": "major_19_the_sun.png",
+    "meaning_upright": "Positivity, fun, warmth, success, vitality",
+    "meaning_reversed": "Inner child, feeling down, overly optimistic",
+    "description": "The Sun is the best card in the deck, radiating joy, success, and positivity."
+  },
+  {
+    "id": "major_20",
+    "name": "Judgement",
+    "image": "major_20_judgement.png",
+    "meaning_upright": "Judgement, rebirth, inner calling, absolution",
+    "meaning_reversed": "Self-doubt, inner critic, ignoring the call",
+    "description": "Judgement calls for a rising up, a moment of reckoning and awakening to a new life."
+  },
+  {
+    "id": "major_21",
+    "name": "The World",
+    "image": "major_21_the_world.png",
+    "meaning_upright": "Completion, integration, accomplishment, travel",
+    "meaning_reversed": "Seeking personal closure, short-cuts, delays",
+    "description": "The World represents the successful conclusion of a long journey and total fulfillment."
+  },
+  {
+    "id": "cups_01",
+    "name": "Ace of Cups",
+    "image": "cups_01.png",
+    "meaning_upright": "Love, new relationships, compassion, creativity",
+    "meaning_reversed": "Self-love, intuition, repressed emotions",
+    "description": "The Ace of Cups offers a cup flowing with love, emotion, and the potential for new relationships."
+  },
+  {
+    "id": "cups_02",
+    "name": "Two of Cups",
+    "image": "cups_02.png",
+    "meaning_upright": "Unified love, partnership, mutual attraction",
+    "meaning_reversed": "Self-love, break-ups, disharmony",
+    "description": "The Two of Cups represents a union of souls, whether romantic, platonic, or business."
+  },
+  {
+    "id": "swords_01",
+    "name": "Ace of Swords",
+    "image": "swords_01.png",
+    "meaning_upright": "Raw power, victory, break-throughs, mental clarity",
+    "meaning_reversed": "Confusion, chaos, lack of clarity",
+    "description": "The Ace of Swords represents a breakthrough moment of mental clarity and truth."
+  },
+  {
+    "id": "wands_01",
+    "name": "Ace of Wands",
+    "image": "wands_01.png",
+    "meaning_upright": "Inspiration, new opportunities, growth, potential",
+    "meaning_reversed": "An emerging idea, lack of direction, distractions",
+    "description": "The Ace of Wands is the spark of creativity and the urge to take action on a new idea."
+  },
+  {
+    "id": "pentacles_01",
+    "name": "Ace of Pentacles",
+    "image": "pentacles_01.png",
+    "meaning_upright": "A new financial or career opportunity, manifestation",
+    "meaning_reversed": "Lost opportunity, lack of planning and foresight",
+    "description": "The Ace of Pentacles represents a seed of prosperity planted in the material world."
+  }
+]
